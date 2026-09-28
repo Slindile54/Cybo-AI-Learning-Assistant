@@ -145,4 +145,5 @@ This repository contains the source code and project resources used to develop C
 🚀 Try Cybo
 
 Want to interact with Cybo and experience the learning assistant yourself?
+
 https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/04/23/09/20260423091234-193Z4YIT.json
